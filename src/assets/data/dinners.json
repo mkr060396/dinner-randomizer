@@ -1,0 +1,32 @@
+[
+    {
+      "id": 0,
+      "name": "Pizza",
+      "image": "https://t4.ftcdn.net/jpg/00/18/66/99/360_F_18669964_Txz4BS0OErzj9v9DHM3N51d8yFVa85dR.jpg",
+      "ingredients": ["Cheese", "Tomato sauce", "Toppings"]
+    },
+    {
+      "id": 1,
+      "name": "Tortellini",
+      "image": "https://thumbs.dreamstime.com/b/tortellini-pasta-16093009.jpg",
+      "ingredients": ["Tortellini", "Tomato soup", "Chorizo", "Cream"]
+    },
+    {
+      "id": 2,
+      "name": "Burger",
+      "image": "https://thumbs.dreamstime.com/b/beef-burger-isolated-white-background-30569226.jpg",
+      "ingredients": ["Cheese", "Beef", "Tomatoes", "Lettuce", "Burger buns"]
+    },
+    {
+        "id": 3,
+        "name": "Curry",
+        "image": "https://thumbs.dreamstime.com/b/bowl-indian-chicken-curry-28325245.jpg",
+        "ingredients": ["Chicken", "Coconut milk", "Chopped tomatoes", "Spices"]
+      },
+      {
+        "id": 4,
+        "name": "Lasagna",
+        "image": "https://thumbs.dreamstime.com/b/lasagna-glass-dish-31445674.jpg",
+        "ingredients": ["Beef", "Lasagna plates", "Chopped tomatoes", "Cheese"]
+      }
+  ]
